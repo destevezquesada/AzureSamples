@@ -1,5 +1,5 @@
 # AzureSamples
-A collection of  Azure samples targeted to connections with a limited band width. 
+A collection of  Azure samples targeted to connections with a limited bandwidth by <a href="http://www.linkedin.com/in/destevezquesada">@Denis_Estevez</a>.
 
 Being in touch with the latest Microsoft technologies in a country where Internet connectivity is not qualitatively appropriate are the genesis of this repository.
 
