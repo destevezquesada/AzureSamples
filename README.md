@@ -3,7 +3,7 @@ A collection of  Azure samples targeted to connections with a limited bandwidth 
 
 Being in touch with the latest Microsoft technologies in a country where Internet connectivity is not qualitatively appropriate are the genesis of this repository.
 
-Another thing is that for the Azure SDK there is no offline installer. So the only alternative is to audit the HTTP requests to the online installer to download the prerequisites in the appropriate order in a place where the connectivity bandwidth is at least 56 Kb.
+Another thing is that for the Azure SDK there is no off-line installer. So the only alternative is to audit the HTTP requests to the on-line installer to download the prerequisites in the appropriate order in a place where the connectivity bandwidth is at least 56 Kb.
 
 I’ll share with you the sorted list:
 
@@ -29,7 +29,7 @@ Samples:
 
 1. Uploading Large Files
 ===========================
-The work around here is uploading the files by splitting them in chuncks from client side to server side. 
-We'll use the javascript library https://github.com/23/resumable.js from client side to make the splitting work.
+The work around here is uploading the files by splitting them in chunks from client side to server side. 
+We'll use the JavaScript library https://github.com/23/resumable.js from client side to make the splitting work.
 
 
